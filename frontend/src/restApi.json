@@ -23,20 +23,20 @@
         "dishes": [
             {
                 "id": 1,
-                "image": "./dinner1.jpeg",
-                "title": "ROASTED LAMB RUMP",
+                "image": "./dinner1.png",
+                "title": "VEG POOLAV",
                 "category": "Dinner"
             },
             {
                 "id": 2,
                 "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
+                "title": "JEERA RICE",
                 "category": "Dinner"
             },
             {
                 "id": 3,
                 "image": "./breakfast1.png",
-                "title": "PAN SEARED SEA BASS",
+                "title": "SALAD",
                 "category": "Breakfast"
             },
             {
@@ -48,25 +48,25 @@
             {
                 "id": 5,
                 "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
+                "title": "JUMBO GRILL SANDWITCH",
                 "category": "Lunch"
             },
             {
                 "id": 6,
                 "image": "./dinner4.png",
-                "title": "MUSSELS SOUP",
+                "title": "PUNJABI SABJI",
                 "category": "Dinner"
             },
             {
                 "id": 7,
                 "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
+                "title": "HAKKA NOODLES",
                 "category": "Dinner"
             },
             {
                 "id": 8,
                 "image": "./dinner6.png",
-                "title": "GRILLED FISH",
+                "title": "MYSORE DOSA",
                 "category": "Dinner"
             }
         ],

@@ -16,7 +16,6 @@ const Home = () => {
       <Qualities/>
       <Menu/>
       <WhoAreWe/>
-      <Team/>
       <Reservation/>
       <Footer/>
     </>

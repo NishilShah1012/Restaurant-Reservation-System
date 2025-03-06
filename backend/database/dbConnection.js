@@ -2,9 +2,7 @@ import mongoose from "mongoose";
 
 export const dbConnection = () => {
   mongoose
-    .connect(process.env.MONGO_URI, {
-      dbName: "RESERVATIONS",
-    })
+    .connect("mongodb://localhost:27017/RESERVATIONS")
     .then(() => {
       console.log("Connected to database!");
     })
